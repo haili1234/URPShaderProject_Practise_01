@@ -3,6 +3,6 @@
 
 1.其中包含Unity 官方URP Shader事例。
 
-2.消散、溶解效果，文件夹中disslove shader pack。
+2.消散、溶解效果，文件夹中Disslove Shader Pack。
 
-3.树木飘动效果，文件夹中animate tree shader pack。
+3.树木飘动效果，文件夹中Animate Tree Shader Pack。
